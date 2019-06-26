@@ -16,7 +16,8 @@ import com.hand.model.Address;
 import com.hand.model.Customer;
 import com.opensymphony.xwork2.ActionContext;
 import com.opensymphony.xwork2.ActionSupport;
-
+/**
+**/
 public class doCustomerAction extends ActionSupport {
 	private String first_name;
 	private String last_name;
